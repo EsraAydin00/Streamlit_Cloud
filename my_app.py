@@ -163,8 +163,8 @@ result = model.predict(df)
 if predict :
     st.success(result[0])
 
-st.balloons()
-st.snow()
+# st.balloons()
+# st.snow()
 
 
 
