@@ -128,7 +128,7 @@ st.write("# sidebar input result")
 st.success(a*x)
 
 # Dataframe
-df = pd.read_csv("Advertising (1).csv")
+df = pd.read_csv("Advertising.csv")
 
 # To display dataframe there are 3 methods
 # Method 1
